@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> **Projeto arquivado (11/10/2026).** O BacenTools agora é um site 100% estático, sem esta API: o navegador busca os dados direto da BrasilAPI e do Banco Central.
+> Código atual, testes e documentação: **[vieiraes/bacentools](https://github.com/vieiraes/bacentools)** · site: **https://bacentools.web.app**
+
 # BacenTools
 
 ![Logo BacenTools](https://img.shields.io/badge/BacenTools-Ferramentas%20para%20Meios%20de%20Pagamento-blue)
